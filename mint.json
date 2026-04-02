@@ -1,8 +1,8 @@
 {
   "name": "我的openclaw",
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "ui/public/favicon-32.png",
+    "dark": "ui/public/favicon-32.png"
   },
   "favicon": "/favicon.png",
   "colors": {
