@@ -1,8 +1,18 @@
 {
-  "name": "我的openclaw项目文档",
+  "name": "我的openclaw",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#4ADE80",
+    "dark": "#166534"
+  },
   "navigation": [
     {
-      "group": "入门指南",
+      "group": "Getting Started",
       "pages": ["introduction"]
     }
   ]
