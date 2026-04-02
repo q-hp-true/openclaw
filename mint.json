@@ -1,0 +1,9 @@
+{
+  "name": "我的openclaw项目文档",
+  "navigation": [
+    {
+      "group": "入门指南",
+      "pages": ["introduction"]
+    }
+  ]
+}
